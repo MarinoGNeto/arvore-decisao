@@ -1,4 +1,4 @@
-# Relatório: Treinamento e Avaliação de Árvore de Decisão no Dataset Iris
+# Treinamento e Avaliação de Árvore de Decisão no Dataset Iris
 
 ## Descrição do Código
 O objetivo deste código é construir, treinar e avaliar uma **árvore de decisão** utilizando o **dataset Iris**, um conjunto clássico de dados para classificação. Além disso, o código compara a performance do modelo com uma suposição de acurácia obtida por um classificador **k-NN (k-Nearest Neighbors)**.
@@ -51,3 +51,5 @@ O objetivo deste código é construir, treinar e avaliar uma **árvore de decis�
   - Acurácia da Árvore de Decisão: *valor calculado*  
   - Acurácia do k-NN: 96%
 
+![representative image with data generated with the code - 1](image-1.png)
+![representative image with data generated with the code - 2](image-2.png)
