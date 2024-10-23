@@ -51,5 +51,5 @@ O objetivo deste código é construir, treinar e avaliar uma **árvore de decis�
   - Acurácia da Árvore de Decisão: *valor calculado*  
   - Acurácia do k-NN: 96%
 
-![representative image with data generated with the code - 1](image-1.png)
-![representative image with data generated with the code - 2](image-2.png)
+![representative image with data generated with the code - 1](resultImage1.png)
+![representative image with data generated with the code - 2](resultImage2.png)
